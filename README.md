@@ -1,9 +1,5 @@
 # Tell-me-about-yourself
 
-
-Tell me about yourself
-======================
-
 1. It's my pleasure to introduce myself. / Thank you for giving me the opportunity to introduce myself.
 2. My name is Arun Kaliyaperumal (or) Myself is Arun Kaliyaperumal
 	If the questioner is mentioned your name and asking, Mr.Arun, Can you tell me about yourself, skip the fist step.
